@@ -4,6 +4,6 @@
 <h3>Grupo 2-4</h3>
 
 introducir los siguientes comandos en la terminal:
-<p>npm run build</p>
-<p>npm run start 
+<p>1.- npm run build</p>
+<p>2.- npm run start 
 </p>
